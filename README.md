@@ -1,5 +1,9 @@
 # 🎓 EduGenie – AI-Powered Learning Assistant
 
+## 🌐 Live Demo
+
+🔗 **Try EduGenie here:** https://edugenie-ai-assistant-pkfr.onrender.com/
+
 ## 📖 Project Overview
 
 **EduGenie** is a lightweight, responsive, AI-powered learning assistant developed as part of the **Smart Bridge Internship (GenAI Track)**. It uses the **Google GenAI SDK** with the **Gemini 2.5 Flash** model to help students understand complex topics, generate quizzes, and summarize educational content in real time through a simple and user-friendly web interface.
